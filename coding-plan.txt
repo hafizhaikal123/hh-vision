@@ -4,5 +4,6 @@ coding plan HH
 -nodejs
 *express
 *vuejs
+-datastructure
 -framwork ci
 -flutterflow
