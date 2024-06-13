@@ -1,6 +1,6 @@
 HH VISION
 -Konsisten Belajar Flutter
 -Sambung Belajar nodejs
--Belajar Git
 -Mengubah rutin harian
 -siapkan kerja penting
+-Jaga pemakanan
