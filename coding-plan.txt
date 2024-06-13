@@ -4,8 +4,10 @@ coding plan HH
 -nodejs
 *express
 *vuejs
-^Angular
+^nextjs
 ^react
+-datastructure
 -framwork ci
 ^ci4
 -flutterflow
+-pyhton
